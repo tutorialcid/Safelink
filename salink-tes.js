@@ -1,6 +1,5 @@
-<script type='text/javascript'>
-//<![CDATA[
-  ZeroClipboard.config({
+
+ ZeroClipboard.config({
     swfPath: "//cdn.jsdelivr.net/zeroclipboard/2.2.0/ZeroClipboard.swf"
   });
   var client = new ZeroClipboard(document.getElementById('btnCopy'));
@@ -30,5 +29,3 @@
       output.value = "";
     }
   }
-//]]>
-</script>
