@@ -1,2 +1,0 @@
-# Safelink
-Script Safelink PHP
